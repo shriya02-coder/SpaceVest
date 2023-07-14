@@ -1,0 +1,216 @@
+{
+    "symbol": "AAPL",
+    "name": "Apple Inc",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "employees": 164000,
+    "website": "https://www.apple.com",
+    "description": "Apple Inc. is a multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services.",
+    "stock_price": 2804.88,
+    "revenue": 181.7e+9,
+    "sustainability_goals": "Achieve carbon neutrality by 2022 and use 100% renewable energy by 2030.",
+    "esg_score": 85,
+    "esg_rating": "AA"
+}
+    {
+    "symbol": "DIS",
+    "name": "The Walt Disney Company",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "employees": 223000,
+    "website": "https://www.thewaltdisneycompany.com",
+    "description": "The Walt Disney Company is a multinational entertainment conglomerate that operates a diverse range of media networks, studios, and theme parks.",
+    "stock_price": 174.97,
+    "revenue": 65.4e+9,
+    "sustainability_goals": "Reduce net greenhouse gas emissions by 50% by 2025 and achieve net-zero emissions by 2040.",
+    "esg_score": 70,
+    "esg_rating": "A"
+}
+        
+        {
+    "symbol": "PG",
+    "name": "Procter & Gamble Co.",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Consumer Staples",
+    "industry": "Household and Personal Products",
+    "employees": 100000,
+    "website": "https://us.pg.com",
+    "description": "Procter & Gamble Co. is a multinational consumer goods corporation that specializes in personal care and household products.",
+    "stock_price": 138.71,
+    "revenue": 76.1e+9,
+    "sustainability_goals": "Reduce greenhouse gas emissions by 50% by 2030 and achieve net-zero emissions by 2040.",
+    "esg_score": 80,
+    "esg_rating": "AA"
+}
+    {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals",
+    "employees": 135100,
+    "website": "https://www.jnj.com",
+    "description": "Johnson & Johnson is a multinational healthcare conglomerate that specializes in pharmaceuticals, medical devices, and consumer health products.",
+    "stock_price": 164.21,
+    "revenue": 109.3e+9,
+    "sustainability_goals": "Reduce carbon footprint by 20% by 2025 and achieve carbon neutrality in its operations by 2030.",
+    "esg_score": 83,
+    "esg_rating": "AA"
+}
+    {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "sector": "Technology",
+    "industry": "Software",
+    "employees": 181000,
+    "website": "https://www.microsoft.com",
+    "description": "Microsoft Corporation is a technology company that develops, licenses, and sells computer software, consumer electronics, and personal computers and services.",
+    "stock_price": 2804.88,
+    "revenue": 181.7e+9,
+    "sustainability_goals": "Achieve carbon neutrality by 2022 and use 100% renewable energy by 2030.",
+    "esg_score": 89,
+    "esg_rating": "A"
+}
+    
+    {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet Retail",
+    "employees": 1271000,
+    "website": "https://www.amazon.com",
+    "description": "Amazon.com, Inc. is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+    "stock_price": 58.81,
+    "revenue": 128.3e+9,
+    "sustainability_goals": "Achieve carbon neutrality in its operations by 2035 and source 50% of electricity from renewable energy by 2025.",
+    "esg_score": 75,
+    "esg_rating": "A"
+}
+    
+    {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "employees": 256710,
+    "website": "https://www.jpmorganchase.com",
+    "description": "JPMorgan Chase & Co. is a multinational investment bank and financial services holding company that provides a range of financial services, including investment banking, asset management, and consumer banking.",
+    "stock_price": 729.29,
+    "revenue": 20.6e+9,
+    "sustainability_goals": "Reduce carbon emissions by 30% by 2025 and achieve net-zero carbon emissions by 2040.",
+    "esg_score": 80,
+    "esg_rating": "AA"
+}
+    
+    {
+    "symbol": "CVS",
+    "name": "CVS Health Corporation",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Health Care",
+    "industry": "Health Care Providers",
+    "employees": 300000,
+    "website": "https://www.cvshealth.com",
+    "description": "CVS Health Corporation is an American healthcare company that provides pharmacy services, retail pharmacy, and healthcare benefits management services.",
+    "stock_price": 2804.88,
+    "revenue": 181.7e+9,
+    "sustainability_goals": "Achieve carbon neutrality by 2022 and use 100% renewable energy by 2030.",
+    "esg_score": 85,
+    "esg_rating": "AA"
+}
+    {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "sector": "Technology",
+    "industry": "Internet Services",
+    "employees": 144056,
+    "website": "https://www.abc.xyz",
+    "description": "Alphabet Inc. is a multinational technology conglomerate that specializes in internet-related services and products.",
+    "stock_price": 2804.88,
+    "revenue": 181.7e+9,
+    "sustainability_goals": "Achieve carbon neutrality by 2022 and use 100% renewable energy by 2030.",
+    "esg_score": 85,
+    "esg_rating": "AA"
+}
+    
+    {
+    "symbol": "WMT",
+    "name": "Walmart Inc.",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Consumer Staples",
+    "industry": "Hypermarkets and Super Centers",
+    "employees": 2200000,
+    "website": "https://www.walmart.com",
+    "description": "Walmart Inc. is a multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores.",
+    "stock_price": 139.18,
+    "revenue": 559.2e+9,
+    "sustainability_goals": "Achieve zero waste in key markets by 2025 and source 100% of energy from renewable sources by 2035.",
+    "esg_score": 70,
+    "esg_rating": "A"
+}
+    
+    {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "exchange": "NASDAQ",
+    "mic_code": "XNGS",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "employees": 18975,
+    "website": "https://www.nvidia.com",
+    "description": "NVIDIA Corporation is a multinational technology company that specializes in designing graphics processing units (GPUs) for gaming and professional markets.",
+    "stock_price": 729.29,
+    "revenue": 20.6e+9,
+    "sustainability_goals": "Reduce carbon emissions by 30% by 2025 and achieve net-zero carbon emissions by 2040.",
+    "esg_score": 80,
+    "esg_rating": "AA"
+}
+    
+    {
+    "symbol": "VZ",
+    "name": "Verizon Communications Inc.",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Communication Services",
+    "industry": "Telecommunication Services",
+    "employees": 135000,
+    "website": "https://www.verizon.com",
+    "description": "Verizon Communications Inc. is a multinational telecommunications conglomerate that provides wireless communications, internet, and TV services.",
+    "stock_price": 58.81,
+    "revenue": 128.3e+9,
+    "sustainability_goals": "Achieve carbon neutrality in its operations by 2035 and source 50% of electricity from renewable energy by 2025.",
+    "esg_score": 75,
+    "esg_rating": "A"
+}
+    
+    {
+    "symbol": "PG",
+    "name": "Procter & Gamble Co.",
+    "exchange": "NYSE",
+    "mic_code": "XNYS",
+    "sector": "Communication Services",
+    "industry": "Telecommunication Services",
+    "employees": 135000,
+    "website": "https://www.verizon.com",
+    "description": "Verizon Communications Inc. is a multinational telecommunications conglomerate that provides wireless communications, internet, and TV services.",
+    "stock_price": 58.81,
+    "revenue": 128.3e+9,
+    "sustainability_goals": "Achieve carbon neutrality in its operations by 2035 and source 50% of electricity from renewable energy by 2025.",
+    "esg_score": 75,
+    "esg_rating": "A"
+}
